@@ -20,3 +20,4 @@ total_time = end_time - start_time
 
 print("Execution Time:", total_time)
 print("Sorted Array:", sorted_arr)
+print("Original Array:", arr)
