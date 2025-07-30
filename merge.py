@@ -36,3 +36,4 @@ arr = [38, 27, 43, 3, 9, 82, 10]
 print("Before Sorting:", arr)
 mergeSort(arr, 0, len(arr) - 1)
 print("After Sorting:", arr)
+#Best Case	O(n log n)
